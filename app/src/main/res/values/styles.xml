@@ -326,6 +326,7 @@
         <item name="android:background">@drawable/onboarding_card_background_light</item>
         <item name="android:padding">16dp</item>
         <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:elevation">5dp</item>
     </style>
 
     <style name="OnboardingCardDark" parent="OnboardingCardLight">
