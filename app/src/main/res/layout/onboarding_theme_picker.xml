@@ -8,8 +8,6 @@
     style="@style/OnboardingCardLight"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginBottom="16dp"
-    android:background="@drawable/onboarding_card_background_light"
     android:paddingTop="16dp">
 
     <TextView
