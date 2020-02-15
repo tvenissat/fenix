@@ -55,6 +55,7 @@
         <item name="toolbarEndGradient">@color/toolbar_end_gradient_normal_theme</item>
         <item name="toolbarDivider">@color/toolbar_divider_color_normal_theme</item>
         <item name="fillLinkFromClipboard">@color/fill_link_from_clipboard_normal_theme</item>
+        <item name="onboardingCardTextLink">@color/onboarding_card_text_link_normal_theme</item>
         <item name="menuCategoryText">@color/menu_category_normal_theme</item>
 
         <!-- Drawables -->
@@ -146,6 +147,7 @@
         <item name="toolbarEndGradient">@color/toolbar_end_gradient_private_theme</item>
         <item name="toolbarDivider">@color/toolbar_divider_color_private_theme</item>
         <item name="fillLinkFromClipboard">@color/fill_link_from_clipboard_private_theme</item>
+        <item name="onboardingCardTextLink">@color/onboarding_card_text_link_private_theme</item>
         <item name="menuCategoryText">@color/menu_category_private_theme</item>
 
         <!-- Drawables -->

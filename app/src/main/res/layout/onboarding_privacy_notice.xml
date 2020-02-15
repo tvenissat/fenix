@@ -58,7 +58,7 @@
                 android:textStyle="bold"
                 android:gravity="center"
                 android:text="@string/onboarding_privacy_notice_read_button"
-                android:textColor="?primaryText"
+                android:textColor="?onboardingCardTextLink"
                 android:textSize="14sp" />
     </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
