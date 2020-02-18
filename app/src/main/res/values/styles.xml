@@ -56,6 +56,8 @@
         <item name="toolbarDivider">@color/toolbar_divider_color_normal_theme</item>
         <item name="fillLinkFromClipboard">@color/fill_link_from_clipboard_normal_theme</item>
         <item name="onboardingCardTextLink">@color/onboarding_card_text_link_normal_theme</item>
+        <item name="onboardingNormalRadioButton">@color/onboarding_normal_radio_button_normal_theme</item>
+        <item name="onboardingActivatedRadioButton">@color/onboarding_activated_radio_button_normal_theme</item>
         <item name="menuCategoryText">@color/menu_category_normal_theme</item>
 
         <!-- Drawables -->
@@ -148,6 +150,8 @@
         <item name="toolbarDivider">@color/toolbar_divider_color_private_theme</item>
         <item name="fillLinkFromClipboard">@color/fill_link_from_clipboard_private_theme</item>
         <item name="onboardingCardTextLink">@color/onboarding_card_text_link_private_theme</item>
+        <item name="onboardingNormalRadioButton">@color/onboarding_normal_radio_button_private_theme</item>
+        <item name="onboardingActivatedRadioButton">@color/onboarding_activated_radio_button_private_theme</item>
         <item name="menuCategoryText">@color/menu_category_private_theme</item>
 
         <!-- Drawables -->
@@ -332,6 +336,11 @@
 
     <style name="OnboardingCardDark" parent="OnboardingCardLight">
         <item name="android:background">@drawable/onboarding_card_background_dark</item>
+    </style>
+
+    <style name="OnboardingRadioButton">
+        <item name="android:colorControlNormal">?onboardingNormalRadioButton</item>
+        <item name="android:colorControlActivated">?onboardingActivatedRadioButton</item>
     </style>
 
     <style name="SearchShortcutsLabelStyle">

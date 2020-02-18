@@ -47,6 +47,7 @@
 
     <org.mozilla.fenix.onboarding.OnboardingRadioButton
         android:id="@+id/theme_light_radio_button"
+        android:theme="@style/OnboardingRadioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@string/onboarding_theme_light_title"
@@ -73,6 +74,7 @@
 
     <org.mozilla.fenix.onboarding.OnboardingRadioButton
         android:id="@+id/theme_dark_radio_button"
+        android:theme="@style/OnboardingRadioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@string/onboarding_theme_dark_title"
@@ -133,6 +135,7 @@
 
     <org.mozilla.fenix.onboarding.OnboardingRadioButton
         android:id="@+id/theme_automatic_radio_button"
+        android:theme="@style/OnboardingRadioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"

@@ -55,6 +55,7 @@
 
     <org.mozilla.fenix.onboarding.OnboardingRadioButton
         android:id="@+id/tracking_protection_standard_option"
+        android:theme="@style/OnboardingRadioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -99,6 +100,7 @@
 
     <org.mozilla.fenix.onboarding.OnboardingRadioButton
         android:id="@+id/tracking_protection_strict_default"
+        android:theme="@style/OnboardingRadioButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"

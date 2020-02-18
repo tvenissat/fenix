@@ -42,6 +42,8 @@
     <attr name="shieldLottieFile" format="reference" />
     <attr name="fillLinkFromClipboard" format="reference"/>
     <attr name="onboardingCardTextLink" format="reference"/>
+    <attr name="onboardingNormalRadioButton" format="reference"/>
+    <attr name="onboardingActivatedRadioButton" format="reference"/>
 
     <declare-styleable name="LibraryListItem">
         <attr name="listItemTitle" format="reference" />
