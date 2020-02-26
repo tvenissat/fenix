@@ -41,6 +41,7 @@
     <attr name="toolbarEndGradient" format="reference"/>
     <attr name="shieldLottieFile" format="reference" />
     <attr name="fillLinkFromClipboard" format="reference"/>
+    <attr name="onboardingCardButtonBackground" format="reference"/>
     <attr name="onboardingCardTextLink" format="reference"/>
     <attr name="onboardingNormalRadioButton" format="reference"/>
     <attr name="onboardingActivatedRadioButton" format="reference"/>
