@@ -43,6 +43,7 @@
     <attr name="fillLinkFromClipboard" format="reference"/>
     <attr name="onboardingCardButtonBackground" format="reference"/>
     <attr name="onboardingCardTextLink" format="reference"/>
+    <attr name="onboardingFinishButtonBackground" format="reference"/>
     <attr name="onboardingNormalRadioButton" format="reference"/>
     <attr name="onboardingActivatedRadioButton" format="reference"/>
 
