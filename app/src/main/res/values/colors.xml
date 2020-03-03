@@ -71,7 +71,7 @@
     <color name="toolbar_divider_color_dark_theme">@color/neutral_faded_dark_theme</color>
     <color name="fill_link_from_clipboard_dark_theme">@color/accent_on_dark_background_normal_theme</color>
     <color name="onboarding_card_button_background_dark_theme">#4A4A55</color>
-    <color name="onboarding_card_text_link_dark_theme">@color/accent_dark_theme</color>
+    <color name="onboarding_card_text_link_dark_theme">@color/primary_text_dark_theme</color>
     <color name="onboarding_finish_button_background_dark_theme">#AB71FF</color>
     <color name="onboarding_normal_radio_button_dark_theme">#99FBFBFE</color>
     <color name="onboarding_activated_radio_button_dark_theme">#9059FF</color>
